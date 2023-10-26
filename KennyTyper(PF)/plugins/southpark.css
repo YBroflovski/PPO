@@ -1,0 +1,25 @@
+body {
+    background-image: url("../busstop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main div.text {
+    background-color: rgb(255 255 255 / .5);
+}
+
+main div.text p>*>* {
+    color: #000000;
+}
+
+.kenny {
+    height: 20vmin;
+}
+
+p {
+    font-size: 2vmin
+}
+
+.visitors {
+    height: 10vmin;
+}
